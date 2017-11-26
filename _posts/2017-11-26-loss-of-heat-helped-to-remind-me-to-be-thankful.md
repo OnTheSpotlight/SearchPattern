@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2017-11-26 23:17:24
 ---
-<img title="" src="http://inthespotlight.shepherdmaplesyrupfestival.com/wp-content/uploads/2017/11/null.jpeg" alt="" width="624" height="832" />
+&nbsp;
 
 November is called the “month of thanksgiving” leading up to Thanksgiving Day. I try to appreciate all of our good fortunes as much as possible, but the last couple of days that we spent without heat has given me a new perspective on what it really means to count our blessings.
 
