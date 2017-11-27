@@ -11,11 +11,11 @@ permalink: >
 published: true
 post_date: 2017-11-26 23:17:24
 ---
-&nbsp;
-
 November is called the “month of thanksgiving” leading up to Thanksgiving Day. I try to appreciate all of our good fortunes as much as possible, but the last couple of days that we spent without heat has given me a new perspective on what it really means to count our blessings.
 
 It was the night before Thanksgiving when we realized that our furnace had stopped working. The kids were already asleep, and my wife and I were heading to bed. The temperature in the house had already been dropping, but it was still tolerable. It was too late to call about the furnace, and we knew that most places would be closed during Thanksgiving. We needed to just tough it out for a day, and then try to get someone here on Friday.
+
+<img class="alignnone size-medium wp-image-30" src="http://inthespotlight.shepherdmaplesyrupfestival.com/wp-content/uploads/2017/11/null-225x300.jpeg" alt="" width="225" height="300" />
 
 By Thursday morning, it was so cold in the house that the chill in the air was palpable. When I moved my arms, or walked through a room the cold air pressed against my body. When our Thanksgiving lunch was ready, the words “Lunch is ready, come eat before the food gets cold,” carried a deeper meaning.
 
