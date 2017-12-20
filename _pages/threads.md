@@ -1,6 +1,6 @@
 ---
 ID: 98
-post_title: Threads
+post_title: Publications
 author: ng23055
 post_excerpt: ""
 layout: page
