@@ -1,6 +1,6 @@
 ---
 ID: 105
-post_title: Advice Forum
+post_title: Community Forum
 author: ng23055
 post_excerpt: ""
 layout: page
